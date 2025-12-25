@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Dec  2 18:33:54 2025
+# Process ID: 18728
+# Current directory: D:/APB/APB/APB.runs/impl_1
+# Command line: vivado.exe -log APB_Top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source APB_Top.tcl -notrace
+# Log file: D:/APB/APB/APB.runs/impl_1/APB_Top.vdi
+# Journal file: D:/APB/APB/APB.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source APB_Top.tcl -notrace
